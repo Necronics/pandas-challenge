@@ -1,2 +1,4 @@
 # Module 2: Pandas-Challenge
-Reading info from CSV's, converting and sorting info into dataframes, and deriving conclusions from the data
+Reading info from CSV's 
+Converting and sorting info into dataframes
+Deriving conclusions from the data
